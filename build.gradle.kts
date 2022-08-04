@@ -14,7 +14,6 @@ kWiki {
     wikiTitle.set("kHTML")
     wikiDescription.set("HTML5 DSL written in pure Kotlin!")
     wikiWebsite.set("https://khtml.daymxn.com")
-    wikiWebsiteBase.set("/kHTML")
     wikiSourceDirectory.set(project.file("wiki"))
     outputDirectory.set(project.rootDir.file("docs"))
 }
