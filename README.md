@@ -3,7 +3,7 @@
 </p>
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/daymxn/kHTML?style=flat-square)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/daymxn/kHTML/master?style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/daymxn/kHTML/main?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/daymxn/kHTML?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/daymxn/kHTML?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/daymxn/kHTML?style=flat-square)
