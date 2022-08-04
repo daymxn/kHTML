@@ -24,4 +24,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "kHTML"
+rootProject.name = "khtml"
