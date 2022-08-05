@@ -11,7 +11,7 @@
 
 Super light-weight HTML5 DSL written in pure Kotlin!
 
-Learn how to use kHTML by reading our wiki [here.](https://daymxn.github.io/kHTML/en/overview/)
+Learn how to use kHTML by reading our wiki [here.](https://khtml.daymxn.com/en/overview/)
 
 ## Example
 
@@ -68,17 +68,17 @@ implementation("com.daymxn:khtml:1.0.0")
 
 ## Getting Started
 
-[Basics](https://daymxn.github.io/kHTML/en/getting%20started/basics/)
+[Basics](https://khtml.daymxn.com/en/getting%20started/basics/)
 
-[Adding Text](https://daymxn.github.io/kHTML/en/getting%20started/text/)
+[Adding Text](https://khtml.daymxn.com/en/getting%20started/text/)
 
-[Functional Elements](https://daymxn.github.io/kHTML/en/getting%20started/functional-elements/)
+[Functional Elements](https://khtml.daymxn.com/en/getting%20started/functional-elements/)
 
-[More Functional Elements](https://daymxn.github.io/kHTML/en/getting%20started/functional-elements-again/)
+[More Functional Elements](https://khtml.daymxn.com/en/getting%20started/functional-elements-again/)
 
-[Configuring Elements](https://daymxn.github.io/kHTML/en/getting%20started/configuring-elements/)
+[Configuring Elements](https://khtml.daymxn.com/en/getting%20started/configuring-elements/)
 
-[Adding custom Tags](https://daymxn.github.io/kHTML/en/getting%20started/adding-custom-tags/)
+[Adding custom Tags](https://khtml.daymxn.com/en/getting%20started/adding-custom-tags/)
 
 ## Contributing
 
