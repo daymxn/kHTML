@@ -5,7 +5,7 @@ import util.maybeFile
 plugins {
     kotlin("jvm") version "1.7.10"
     id("daymxn-plugin")
-    id("com.daymxn.kwiki") version "0.9.15"
+    id("com.daymxn.kwiki") version "0.9.16"
     id("maven-publish")
     `java-library`
 }
